@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gerador-de-orcamento",
+    "slug": "gerador-de-orcamento",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "gerador-de-orcamento"
+}
